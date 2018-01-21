@@ -1,8 +1,10 @@
 # React Native Drawer Design
 
 ## Description
-   Drawer material design UI in React Native. Design using Custom components, Flatlist, [React Navigation](https://reactnavigation.org/),
-   Manage folder structor for react native.
+   Drawer Material Design UI in React Native With Manage Folder Structure.
+   - Custom components 
+   - Flatlist 
+   - [React Navigation](https://reactnavigation.org/)
    
 ### Demo
 
